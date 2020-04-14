@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.sss136.filzacodingpro</string>
+			<key>key</key>
+			<string>kbtn</string>
+			<key>label</key>
+			<string>UIButton</string>
+		</dict>
+		<dict>
+                         <key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>label</key>
+			<string>Shortcut Key→uibtn</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.sss136.filzacodingpro</string>
+			<key>key</key>
+			<string>klabel</string>
+			<key>label</key>
+			<string>UILabel</string>
+		</dict>
+		<dict>
+                         <key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>label</key>
+			<string>Shortcut Key→uilbl</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.sss136.filzacodingpro</string>
+			<key>key</key>
+			<string>kuswitch</string>
+			<key>label</key>
+			<string>UISwitch</string>
+		</dict>
+		<dict>
+                         <key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>label</key>
+			<string>Shortcut Key→uiswch</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.sss136.filzacodingpro</string>
+			<key>key</key>
+			<string>ktb</string>
+			<key>label</key>
+			<string>UIToolBar</string>
+		</dict>
+		<dict>
+                         <key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>label</key>
+			<string>Shortcut Key→uitb</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.sss136.filzacodingpro</string>
+			<key>key</key>
+			<string>kac</string>
+			<key>label</key>
+			<string>UIAlertController</string>
+		</dict>
+		<dict>
+                         <key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>label</key>
+			<string>Shortcut Key→uiac</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.sss136.filzacodingpro</string>
+			<key>key</key>
+			<string>ktf</string>
+			<key>label</key>
+			<string>UITextField</string>
+		</dict>
+		<dict>
+                         <key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>label</key>
+			<string>Shortcut Key→uitf</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+                         <key>footerText</key>
+			<string>When you enter a shortcut key after indenting, add the number just indented to the beginning of the shortcut key.  (example 1uibtn 2uiac 3uitf etc...)4 or more indents are not supported.  If you need not indent, you do not need to add numbers.</string>
+		</dict>
+
+	</array>
+	<key>title</key>
+	<string>UIKit Shortcut Keys</string>
+</dict>
+</plist>

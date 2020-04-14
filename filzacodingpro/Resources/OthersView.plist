@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.sss136.filzacodingpro</string>
+			<key>key</key>
+			<string>ifelif</string>
+			<key>label</key>
+			<string>if+else</string>
+		</dict>
+		<dict>
+                         <key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>label</key>
+			<string>Shortcut Key→+if</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.sss136.filzacodingpro</string>
+			<key>key</key>
+			<string>kifelel</string>
+			<key>label</key>
+			<string>if+elseif+else</string>
+		</dict>
+		<dict>
+                         <key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>label</key>
+			<string>Shortcut Key→+eif</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.sss136.filzacodingpro</string>
+			<key>key</key>
+			<string>khook</string>
+			<key>label</key>
+			<string>%hook</string>
+		</dict>
+		<dict>
+                         <key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>label</key>
+			<string>Shortcut Key→%h</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.sss136.filzacodingpro</string>
+			<key>key</key>
+			<string>kinter</string>
+			<key>label</key>
+			<string>@interface</string>
+		</dict>
+		<dict>
+                         <key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>label</key>
+			<string>Shortcut Key→@in</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.sss136.filzacodingpro</string>
+			<key>key</key>
+			<string>kcfgb</string>
+			<key>label</key>
+			<string>Create Function getPrefBool</string>
+		</dict>
+		<dict>
+                         <key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>label</key>
+			<string>Shortcut Key→cfgetbool</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.sss136.filzacodingpro</string>
+			<key>key</key>
+			<string>kcfgs</string>
+			<key>label</key>
+			<string>Create Function getPrefString</string>
+		</dict>
+		<dict>
+                         <key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>label</key>
+			<string>Shortcut Key→cfgetstring</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.sss136.filzacodingpro</string>
+			<key>key</key>
+			<string>kcdpp</string>
+			<key>label</key>
+			<string>Create define PLIST_PATH</string>
+		</dict>
+		<dict>
+                         <key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>label</key>
+			<string>Shortcut Key→cdpp</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.sss136.filzacodingpro</string>
+			<key>key</key>
+			<string>kcfgi</string>
+			<key>label</key>
+			<string>Create  Function getPrefInt</string>
+		</dict>
+		<dict>
+                         <key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>label</key>
+			<string>Shortcut Key→cfgetint</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Others Shortcut Keys</string>
+</dict>
+</plist>

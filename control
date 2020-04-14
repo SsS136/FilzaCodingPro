@@ -1,0 +1,10 @@
+Package: com.sss136.filzacodingpro
+Name: Filza Coding Pro
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Filza for programer
+Depiction: https://SsS136.github.io/descriptions/FilzaCodingPro/index.html
+Maintainer: SsS136
+Author: SsS136
+Section: Tweaks

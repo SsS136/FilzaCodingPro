@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>headerCellClass</key>
+			<string>HBImageTableCell</string>
+			<key>icon</key>
+			<string>filzacodingpro.png</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>twitter</string>
+			<key>cellClass</key>
+			<string>HBTwitterCell</string>
+			<key>label</key>
+			<string>SsS136@tweakdev</string>
+			<key>user</key>
+			<string>DevTweak</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.sss136.filzacodingpro</string>
+			<key>key</key>
+			<string>enabledd</string>
+			<key>label</key>
+			<string>Enabled</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+                         <key>footerText</key>
+			<string>If you type the keyword you just typed on the keyboard, you can change between coding mode and standard mode.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>defaults</key>
+			<string>com.sss136.filzacodingpro</string>
+			<key>default</key>
+			<string>abc</string>
+			<key>key</key>
+			<string>checktext</string>
+			<key>label</key>
+			<string>Keyword</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>detail</key>
+			<string>ShortCutView</string>
+			<key>label</key>
+			<string>Basic Syntax Shortcut Keys</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>detail</key>
+			<string>UIKitView</string>
+			<key>label</key>
+			<string>UIKit Shortcut Keys</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>detail</key>
+			<string>OthersView</string>
+			<key>label</key>
+			<string>Others Shortcut Keys</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Others</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>action</key>
+			<string>github</string>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>label</key>
+			<string>Github</string>
+			<key>subtitle</key>
+			<string>Source Code</string>
+			<key>url</key>
+			<string>https://sss136.github.io/</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>action</key>
+			<string>howtouse</string>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>label</key>
+			<string>YouTube</string>
+			<key>subtitle</key>
+			<string>How To Use</string>
+			<key>url</key>
+			<string>https://sss136.github.io/</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>FilzaCodingPro</string>
+</dict>
+</plist>

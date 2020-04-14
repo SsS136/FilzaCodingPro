@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.sss136.filzacodingpro</string>
+			<key>key</key>
+			<string>kif</string>
+			<key>label</key>
+			<string>if</string>
+		</dict>
+		<dict>
+                         <key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>label</key>
+			<string>Shortcut Key→if</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.sss136.filzacodingpro</string>
+			<key>key</key>
+			<string>kelif</string>
+			<key>label</key>
+			<string>else if</string>
+		</dict>
+		<dict>
+                         <key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>label</key>
+			<string>Shortcut Key→elif</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.sss136.filzacodingpro</string>
+			<key>key</key>
+			<string>kfor</string>
+			<key>label</key>
+			<string>for</string>
+		</dict>
+		<dict>
+                         <key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>label</key>
+			<string>Shortcut Key→for</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.sss136.filzacodingpro</string>
+			<key>key</key>
+			<string>kdo</string>
+			<key>label</key>
+			<string>do while</string>
+		</dict>
+		<dict>
+                         <key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>label</key>
+			<string>Shortcut Key→do</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.sss136.filzacodingpro</string>
+			<key>key</key>
+			<string>kwhile</string>
+			<key>label</key>
+			<string>while</string>
+		</dict>
+		<dict>
+                         <key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>label</key>
+			<string>Shortcut Key→while</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.sss136.filzacodingpro</string>
+			<key>key</key>
+			<string>kswitch</string>
+			<key>label</key>
+			<string>switch</string>
+		</dict>
+		<dict>
+                         <key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>label</key>
+			<string>Shortcut Key→switch</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+                         <key>footerText</key>
+			<string>When you enter a shortcut key after indenting, add the number just indented to the beginning of the shortcut key.  (example 1elif 2while 3switch etc...)4 or more indents are not supported.  If you need not indent, you do not need to add numbers.  Since "if" detects indentation automatically, do not enter a number at the beginning.</string>
+		</dict>
+
+	</array>
+	<key>title</key>
+	<string>Basic Syntax Shortcut Keys</string>
+</dict>
+</plist>
